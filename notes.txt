@@ -1,0 +1,3 @@
+batch dimension is gone
+
+when running a new simulation with a lowerresolution, stuff goes south (something still has the larger dimension, but not everything...)
